@@ -1,0 +1,9 @@
+.my-main-container .container header {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: #330000;
+}
+
+.my-main-container {
+  background-color: #ffcccc;
+  border-radius: 25px;
+}
